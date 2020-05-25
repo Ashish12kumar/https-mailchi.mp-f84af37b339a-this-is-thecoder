@@ -1,0 +1,37 @@
+li{
+
+	color: #A7383D;
+	border: 2px solid rgb(155,100,100)
+
+}
+
+body{
+	background-color: none;
+	background-image: url(pin.jpg); 
+}
+
+}
+title{
+	color: gold;
+}
+a{
+	color: gold;
+}
+
+form:hover{
+	color: white;
+	transition: scale(12);
+	transition: 4s
+}
+
+#as:hover{
+	padding: 1rem 1rem;
+	color: gold;
+	background-color:black;
+	border-color: pink;
+	border-style: solid 7px;
+	transition: 4s;
+}
+#as{
+	padding: 1rem 2rem;
+}

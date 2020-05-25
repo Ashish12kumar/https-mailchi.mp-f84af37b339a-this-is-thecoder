@@ -1,0 +1,20 @@
+body {
+  
+  background: url(silhouette-photography-of-group-of-people-jumping-during-1000445.jpg);
+ background-size: 1400px 800px;
+}
+#xxx:hover{
+	font-style: italic;
+	font-size: 25px;
+	color: gold;
+	top: 50%;
+  	transform: translateY(+70%);
+  	transform: translateX(+15%);
+  	padding: 20px;
+  	transition: 4s;
+
+}
+
+.btn{
+	border-radius: 50%;
+}
